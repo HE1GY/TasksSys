@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1f6c27f95f34c58b5b2f7b3eab22c01, type: 3}
+  m_Name: Complex2
+  m_EditorClassIdentifier: 
+  _taskInfo:
+    Name: 
+    Description: 
+  _tasks:
+  - {fileID: 11400000, guid: f7830453e0fc8984d983b048da514dd5, type: 2}
